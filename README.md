@@ -16,8 +16,8 @@ Use this steps:
 
 🛠️ Commands:
 
-forceupdate - update your repo without waiting
-countdown - time until next update from git.
+* forceupdate - update your repo without waiting
+* countdown - time until next update from git
 
 📃 Note:
 
