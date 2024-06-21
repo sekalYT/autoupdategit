@@ -49,7 +49,7 @@ If the script cannot find your repository, it will clone it to the folder contai
 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
 </pre>
-#autoupdategit - ваш помощник в менеджменте сервера!
+#RU autoupdategit - ваш помощник в менеджменте сервера!
 Автоматическое обновление на сервере (ОС: Ubuntu) каждый день.
 
 Теперь вы можете обновлять свои скрипты на сервере без каких-либо действий с вашей стороны!
