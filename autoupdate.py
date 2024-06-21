@@ -9,9 +9,8 @@ def log(message):
     print(f"[{timestamp}] {message}")
 
 def job():
-    # Получаем текущую рабочую директорию, где находится скрипт
     script_dir = os.getcwd()
-    directory = os.path.join(script_dir, "backappallscripts")
+    directory = os.path.join(script_dir, "yournamescript") #rename to your github named folder (example: backappallscripts)
 
     if os.path.exists(directory):
         log("Directory exists. Attempting to pull latest changes.")
