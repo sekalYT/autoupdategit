@@ -1,4 +1,4 @@
-# autoupdategit - your helper in server managment!
+# autoupdategit - your helper in the server managment!
 Automatically update your repository on server (Ubuntu) every day.
 
 Now you can autoupdate your scripts on server without any activities on your side!
