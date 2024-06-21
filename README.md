@@ -9,10 +9,10 @@ Rename "yournamescript" in the code to name your repo (example -> autoupdategit)
 ❓ How to use it?
 
 Use this steps:
-* 1) Download the main file (autoupdate.py) and place it in the directory of your repository.
-* 2) Run the file by executing the command "python autoupdate.py".
-* 3) To test the functionality, you can use the "forceupdate" command. This command updates your repository without any wait time.
-* 4) Your repository will update at 00:00 local time every day.
+* Download the main file (autoupdate.py) and place it in the directory of your repository.
+* Run the file by executing the command "python autoupdate.py".
+* To test the functionality, you can use the "forceupdate" command. This command updates your repository without any wait time.
+* Your repository will update at 00:00 local time every day.
 
 🛠️ Commands:
 
