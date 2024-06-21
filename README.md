@@ -22,3 +22,8 @@ Use this steps:
 📃 Note:
 
 If the script cannot find your repository, it will clone it to the folder containing the autoupdate script.
+
+🖼️ Example with picture (you need to put autoupdate file like this):
+
+![image](https://github.com/sekalYT/autoupdategit/assets/80056228/d1505c63-f3d3-4772-b52f-ce53c98b76e6)
+
