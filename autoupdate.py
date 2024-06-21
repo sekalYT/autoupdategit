@@ -10,7 +10,7 @@ def log(message):
 
 def job():
     script_dir = os.getcwd()
-    directory = os.path.join(script_dir, "yournamescript") #rename to your github named folder (example: backappallscripts)
+    directory = os.path.join(script_dir, "yournamescript") #rename to your github repo (example: backappallscripts / autoupdategit)
 
     if os.path.exists(directory):
         log("Directory exists. Attempting to pull latest changes.")
