@@ -64,7 +64,6 @@ def command_listener():
             log("Force update command received. Updating now.")
             job()
 
-# Запуск задачи и слушателя команд в отдельных потоках
 job_thread = threading.Thread(target=start_job_with_countdown)
 listener_thread = threading.Thread(target=command_listener)
 
