@@ -25,10 +25,12 @@ Use this steps:
 * To test the functionality, you can use the "forceupdate" command. This command updates your repository without any wait time.
 * Your repository will update at 00:00 local time every day.
 
-🛠️ Commands:
+🛠️ Commands / Settings:
 
 * forceupdate - update your repo without waiting
 * countdown - time until next update from git
+
+* In script you have a Settings class, in which you can change foldername and URL (SSH, if your repo has a private visibility) of your repo
 
 📃 Note:
 
@@ -69,6 +71,8 @@ If the script cannot find your repository, it will clone it to the folder contai
 
 * forceupdate - обновить репозиторий без ожидания
 * countdown - время до следующего обновления
+
+* В скрипте прописан класс Settings, в котором вы можете изменить название папки (в которую хотите установить и проверять обновления репозитория), а также ссылку URL(или SSH) на репозиторий.
 
 📃 Примечание:
 
